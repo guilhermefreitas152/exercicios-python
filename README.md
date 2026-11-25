@@ -1,8 +1,8 @@
 # Exercícios de Python
 
 ## Identificação
-- **Estudante:** [Digite seu nome completo]
-- **Turma:** T DSEM 2025/1 M2
+- **Estudante:** Guilherme de Freita
+- **Turma:** DSEM 2025/1 M2
 - **Unidade curricular:** Programação de Aplicativos
 
 ## Descrição
