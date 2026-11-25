@@ -1,7 +1,7 @@
 # Exercícios de Python
 
 ## Identificação
-- **Estudante:** Guilherme de Freita
+- **Estudante:** Guilherme de Freitas
 - **Turma:** DSEM 2025/1 M2
 - **Unidade curricular:** Programação de Aplicativos
 
